@@ -1,3 +1,4 @@
+[![Sponsor me](https://img.shields.io/badge/sponsor-VisionFrame-blueviolet?style=for-the-badge&logo=github)](https://github.com/sponsors/LokieJaxx)
 # VisionFrame: Professional AI-Powered AR Smart Glasses
 
 **Author:** Stephen Kollman  
