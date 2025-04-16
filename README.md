@@ -85,3 +85,4 @@ Open concept for AI-powered AR smart glasses with EnChroma and ChatGPT integrati
 Thank you to everyone who believes in open, wearable tech.  
 If you'd like to support the project:  
 [Become a sponsor](https://github.com/sponsors/LokieJaxx)
+![Testimonial](https://raw.githubusercontent.com/LokieJaxx/visionframe-ar-glasses/main/A_testimonial_graphic_features_a_validation_quote_.png)
