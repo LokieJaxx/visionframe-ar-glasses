@@ -86,4 +86,4 @@ Thank you to everyone who believes in open, wearable tech.
 If you'd like to support the project:  
 [Become a sponsor](https://github.com/sponsors/LokieJaxx)
 ## What Others Are Saying
-![Testimonial](https://raw.githubusercontent.com/LokieJaxx/visionframe-ar-glasses/main/A_testimonial_graphic_features_a_validation_quote_.png)
+![Testimonial](https://raw.githubusercontent.com/LokieJaxx/visionframe-ar-glasses/main/file_0000000003046230ab5747426efbc62f_conversation_id%3D67dfb3a-d-d824-8009-b752-2bd8247fdb60%26message_id%3D204073c1-091b-4fa0-aa10-f53f1991a517.png)
