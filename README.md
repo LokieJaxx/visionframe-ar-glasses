@@ -87,4 +87,4 @@ If you'd like to support the project:
 [Become a sponsor](https://github.com/sponsors/LokieJaxx)
 ## What Others Are Saying
 
-![Testimonial](https://raw.githubusercontent.com/LokieJaxx/visionframe-ar-glasses/main/E46F49A1-BFA5-4EA9-AD13-292EC2993846.png)
+![Testimonial](https://raw.githubusercontent.com/LokieJaxx/visionframe-ar-glasses/main/EE46F9A1-8FA5-4EA9-AD13-202EC2990340.png)
