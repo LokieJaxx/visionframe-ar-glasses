@@ -78,3 +78,10 @@ Sponsorship will directly fund:
 > “Discreet. Intelligent. Daily. VisionFrame is the future of AR wearables — built by professionals, for professionals.”  
 > — *Stephen Kollman*- # visionframe-ar-glasses
 Open concept for AI-powered AR smart glasses with EnChroma and ChatGPT integration
+---
+
+## Sponsors
+
+Thank you to everyone who believes in open, wearable tech.  
+If you'd like to support the project:  
+[Become a sponsor](https://github.com/sponsors/LokieJaxx)
